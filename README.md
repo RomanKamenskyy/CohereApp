@@ -29,7 +29,7 @@ $ git clone https://github.com/RomanKamenskyy/CohereApp.git
 5.	Build and run the app on a simulator or a real device.
 
 ## Screenshots
-<img width="449" alt="screenshot1" src="https://github.com/user-attachments/assets/19d453c0-8f90-45fa-a083-d302dceb6d60">
-<img width="449" alt="screenshot1" src="https://github.com/user-attachments/assets/889f8a67-d4f0-4452-a325-47ffe8ea485c">
+<img width="429" alt="screenshot1" src="https://github.com/user-attachments/assets/19d453c0-8f90-45fa-a083-d302dceb6d60">
+<img width="429" alt="screenshot1" src="https://github.com/user-attachments/assets/889f8a67-d4f0-4452-a325-47ffe8ea485c">
 
 
