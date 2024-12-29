@@ -37,12 +37,12 @@ struct ChatView: View {
             }
 
             HStack {
-                TextField("Введите сообщение...", text: $viewModel.inputMessage)
+                TextField("Enter message...", text: $viewModel.inputMessage)
                     .textFieldStyle(RoundedBorderTextFieldStyle())
                     .padding(.horizontal)
 
                 Button(action: viewModel.sendMessage) {
-                    Text("Отправить")
+                    Text("Send")
                         .foregroundColor(.white)
                         .padding()
                         .background(Color.blue)
