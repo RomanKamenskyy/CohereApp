@@ -8,6 +8,6 @@
 import Foundation
 
 struct CohereAPI {
-    static let apiKey = "DDYI9sj2f6emfJMUKZFHIzoA02zXIB4nP11pWH0y"
+    static let apiKey = ""
     static let baseURL = "https://api.cohere.ai/generate"
 }
